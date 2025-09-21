@@ -10,6 +10,8 @@ It is designed to help you (and others) learn **Python step by step** — starti
 - **variables_and_data_types/** → Learn the basics of **variables** and **data types** in Python
 - **loops/** → Learn how to use **loops** in Python to repeat tasks  
   _(covers for loop, while loop, break, continue, pass, nested loops, else with loops, enumerate, and zip, with examples and a dedicated README.md)_
+- **functions/** → Learn how to create and use **functions** in Python  
+  _(covers function definition, parameters, return values, default arguments, keyword arguments, \*args, \*\*kwargs, lambda functions, recursion, and scope, with examples and a dedicated README.md)_
 
 ---
 
