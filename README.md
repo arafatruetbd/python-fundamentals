@@ -12,6 +12,8 @@ It is designed to help you (and others) learn **Python step by step** — starti
   _(covers for loop, while loop, break, continue, pass, nested loops, else with loops, enumerate, and zip, with examples and a dedicated README.md)_
 - **functions/** → Learn how to create and use **functions** in Python  
   _(covers function definition, parameters, return values, default arguments, keyword arguments, \*args, \*\*kwargs, lambda functions, recursion, and scope, with examples and a dedicated README.md)_
+- **classes_and_objects/** → Learn how to use **classes and objects** in Python  
+  _(covers class definition, object creation, **init**, instance & class variables, inheritance, encapsulation, polymorphism, special methods like **str**/**repr**, with examples and a dedicated README.md)_
 
 ---
 
