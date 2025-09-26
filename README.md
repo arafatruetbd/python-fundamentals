@@ -14,6 +14,8 @@ It is designed to help you (and others) learn **Python step by step** — starti
   _(covers function definition, parameters, return values, default arguments, keyword arguments, \*args, \*\*kwargs, lambda functions, recursion, and scope, with examples and a dedicated README.md)_
 - **classes_and_objects/** → Learn how to use **classes and objects** in Python  
   _(covers class definition, object creation, **init**, instance & class variables, inheritance, encapsulation, polymorphism, special methods like **str**/**repr**, with examples and a dedicated README.md)_
+- **lists_and_dictionaries/** → Learn how to use **lists and dictionaries** in Python  
+  _(covers list creation, indexing, slicing, modifying, looping, list comprehensions, dictionary creation, accessing, updating, deleting, looping, dictionary comprehensions, with examples and a dedicated README.md)_
 
 ---
 
